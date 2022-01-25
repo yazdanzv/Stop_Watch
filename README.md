@@ -8,3 +8,5 @@ really Simple Stop Watch
 
 
 ### you just need to create threads as you see in the code because of the mainloop of the tkinter otherwise it would be freezing and goes to Not Responding mode !!!
+
+PS. make sure you have the needed fonts , if not you can find them in freefonts
